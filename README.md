@@ -1,6 +1,5 @@
 # cv
-Сайт-визитка на HTML + CSS + JS
-
+Сайт-визитка на HTML 
 index.html
 <!DOCTYPE html>
 <html lang="en">
