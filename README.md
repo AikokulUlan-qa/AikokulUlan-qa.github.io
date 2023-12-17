@@ -1,5 +1,5 @@
 # cv
-Сайт-визитка на HTML 
+Сайт-визитка на HTML +CSS+JS
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -90,7 +90,6 @@ index.html
     <script type="text/javascript" src="js.js"></script>
   </body>
 </html>
-
 +css
 body {
   font-family: "Helvetica";
@@ -212,7 +211,6 @@ footer {
   color: #fff;
   box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
 }
-
 +js
 /* Это объявление переменной, мы наши кнопку по тегу */
 const button = document.querySelector('button');
